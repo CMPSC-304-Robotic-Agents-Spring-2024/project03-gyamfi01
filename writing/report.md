@@ -11,12 +11,17 @@ The command colcon build --symlink-install --merge-install did not properly buil
 : Include a screenshot of a terminal showing subscriber and publisher nodes demo running and 2-3 sentence reflection
 
 ### [Creating a workspace](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
+![Screenshot 2](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/0202e397-4bbe-405c-adb7-3dd375aa2949)
 
-TODO: Include a screenshot showing "MyTurtleSim" (overlay) and 2-3 sentence reflection
+The command colcon build --merge-install did not work. This caused the rest of this tutorial to not work.
+: Include a screenshot showing "MyTurtleSim" (overlay) and 2-3 sentence reflection
 
 ### [Creating a package](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html) (Python)
+![Screenshot 3](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/51a19f2f-cf04-4829-8128-a80055843062)
 
-TODO: Include a screenshot of a terminal showing your package running (output from step 4) and 2-3 sentence reflection
+
+The command colcon build --merge-install did not work. This caused the rest of this tutorial to not work.
+: Include a screenshot of a terminal showing your package running (output from step 4) and 2-3 sentence reflection
 
 ### [Writing a simple publisher and subscriber (Python)](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
 
