@@ -61,7 +61,7 @@ mkdir more_interfaces/msg does not work. Causing the tutorial not to run.
 ![Screemshot 9](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/89993806-497d-47bc-98cc-432930e9fe55)
 
 The command ros2 doctor does not work. Causing the tutorial not to run.
-TODO: Include a screenshot of a terminal showing output from running the full report and 2-3 sentence reflection
+: Include a screenshot of a terminal showing output from running the full report and 2-3 sentence reflection
 
 ### [Managing Dependencies with rosdep](https://docs.ros.org/en/humble/Tutorials/Intermediate/Rosdep.html)
 
