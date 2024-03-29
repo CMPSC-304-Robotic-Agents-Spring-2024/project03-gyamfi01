@@ -74,11 +74,13 @@ THe command apt-get install python3-rosdep does not work. Furthermore, the websi
 ![Screenshot 11](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/6c9cfc7a-e21f-418c-af93-d4e2e04b63fa)
 
 The command ros2 pkg create action_tutorials_interfaces does not work. Causing the output not to show.
-: Include a screenshot of a terminal showing output from step 2 and 2-3 sentence reflection
+: Include a screenshot of a terminal showing output from step 2 and 2-3 sentence reflection![Screenshot 11](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/e7b777c0-7511-45e1-aa3c-f4c42a7708aa)
+
 
 ### [Writing an action server and client (Python)](https://docs.ros.org/en/humble/Tutorials/Intermediate/Writing-an-Action-Server-Client/Py.html)
 
-TODO: Include a screenshot of a terminal showing output from running the action client and 2-3 sentence reflection
+Because of everything not working I could not even get this to work. Th
+: Include a screenshot of a terminal showing output from running the action client and 2-3 sentence reflection
 
 ## Challenges and Learning Experiences
 The assignment has given me trouble throughout the whole time I have tried to run it. Different commands just not working was really frusturating. Not being able to get to the bottom of it was even more frustrating.
