@@ -71,8 +71,10 @@ THe command apt-get install python3-rosdep does not work. Furthermore, the websi
 : Include a screenshot of a terminal showing `rosdep` installation and 2-3 sentence reflection
 
 ### [Creating an action](https://docs.ros.org/en/humble/Tutorials/Intermediate/Creating-an-Action.html)
+![Screenshot 11](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/6c9cfc7a-e21f-418c-af93-d4e2e04b63fa)
 
-TODO: Include a screenshot of a terminal showing output from step 2 and 2-3 sentence reflection
+The command ros2 pkg create action_tutorials_interfaces does not work. Causing the output not to show.
+: Include a screenshot of a terminal showing output from step 2 and 2-3 sentence reflection
 
 ### [Writing an action server and client (Python)](https://docs.ros.org/en/humble/Tutorials/Intermediate/Writing-an-Action-Server-Client/Py.html)
 
