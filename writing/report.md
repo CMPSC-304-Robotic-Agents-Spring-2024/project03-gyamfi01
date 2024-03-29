@@ -64,6 +64,9 @@ The command ros2 doctor does not work. Causing the tutorial not to run.
 : Include a screenshot of a terminal showing output from running the full report and 2-3 sentence reflection
 
 ### [Managing Dependencies with rosdep](https://docs.ros.org/en/humble/Tutorials/Intermediate/Rosdep.html)
+![Screenshot 10](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/a6198784-81cd-45ce-833d-353747a4f835)
+
+THe command apt-get install python3-rosdep does not work. Furthermore, the website states rosdep does not work on windows which is what I am operating on.
 
 TODO: Include a screenshot of a terminal showing `rosdep` installation and 2-3 sentence reflection
 
