@@ -71,5 +71,5 @@ TODO: Include a screenshot of a terminal showing output from step 2 and 2-3 sent
 TODO: Include a screenshot of a terminal showing output from running the action client and 2-3 sentence reflection
 
 ## Challenges and Learning Experiences
-
-TODO: Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
+The assignment has given me trouble throughout the whole time I have tried to run it. Different commands just not working was really frusturating. Not being able to get to the bottom of it was even more frustrating.
+: Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
