@@ -22,7 +22,6 @@ The command colcon build --merge-install did not work. This caused the rest of t
 
 ![Screenshot 3](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/51a19f2f-cf04-4829-8128-a80055843062)
 
-
 The command colcon build --merge-install did not work. This caused the rest of this tutorial to not work.
 : Include a screenshot of a terminal showing your package running (output from step 4) and 2-3 sentence reflection
 
@@ -94,5 +93,6 @@ Because of everything not working I could not even get this to work. Th
 : Include a screenshot of a terminal showing output from running the action client and 2-3 sentence reflection
 
 ## Challenges and Learning Experiences
+
 The assignment has given me trouble throughout the whole time I have tried to run it. Different commands just not working was really frusturating. Not being able to get to the bottom of it was even more frustrating.
 : Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
