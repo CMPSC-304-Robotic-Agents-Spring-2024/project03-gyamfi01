@@ -37,12 +37,18 @@ The command ros2 pkg create --build-type ament_python --license Apache-2.0 py_sr
 : Include a screenshot of a terminal showing outputs from step 4 and 2-3 sentence reflection
 
 ### [Creating custom msg and srv files](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
+![Screenshot 6](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/4d741f27-68af-4cde-aee6-d83c0ca6aac7)
 
-TODO: Include a screenshot of a terminal showing output from running `py_srvcli service` and `py_srvcli client` and 2-3 sentence reflection
+The command ros2 pkg create --build-type ament_cmake --license Apache-2.0 tutorial_interfaces did not work. This caused the tutorial not to work.
+
+: Include a screenshot of a terminal showing output from running `py_srvcli service` and `py_srvcli client` and 2-3 sentence reflection
 
 ### [Implementing custom interfaces](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Single-Package-Define-And-Use-Interface.html)
+![Screenshot 7](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/993636e7-b95f-4556-b722-520034cf4145)
 
-TODO: Include a screenshot of a terminal showing output from running `topic echo` and 2-3 sentence reflection
+The command ros2 pkg create --build-type ament_cmake --license Apache-2.0 more_interfaces
+mkdir more_interfaces/msg does not work. Causing the tutorial not to run.
+: Include a screenshot of a terminal showing output from running `topic echo` and 2-3 sentence reflection
 
 ### [Using parameters in a class (Python)](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Using-Parameters-In-A-Class-Python.html)
 
