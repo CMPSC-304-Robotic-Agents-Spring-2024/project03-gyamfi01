@@ -68,7 +68,7 @@ The command ros2 doctor does not work. Causing the tutorial not to run.
 
 THe command apt-get install python3-rosdep does not work. Furthermore, the website states rosdep does not work on windows which is what I am operating on.
 
-TODO: Include a screenshot of a terminal showing `rosdep` installation and 2-3 sentence reflection
+: Include a screenshot of a terminal showing `rosdep` installation and 2-3 sentence reflection
 
 ### [Creating an action](https://docs.ros.org/en/humble/Tutorials/Intermediate/Creating-an-Action.html)
 
