@@ -5,8 +5,10 @@
 For each of the following tutorials, please include at least one screenshot of your experience in the tutorial to showcase its completion, and 2-3 sentence reflection.
 
 ### [Using colcon to build packages](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
+![Screenshot 2024-03-28 224102](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/3976dc76-9e38-483f-a34d-c8402008ed07)
 
-TODO: Include a screenshot of a terminal showing subscriber and publisher nodes demo running and 2-3 sentence reflection
+The command colcon build --symlink-install --merge-install did not properly build. This caused the rest of this tutorial to not work.
+: Include a screenshot of a terminal showing subscriber and publisher nodes demo running and 2-3 sentence reflection
 
 ### [Creating a workspace](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
 
