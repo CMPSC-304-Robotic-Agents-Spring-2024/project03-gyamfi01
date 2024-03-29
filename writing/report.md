@@ -52,6 +52,8 @@ mkdir more_interfaces/msg does not work. Causing the tutorial not to run.
 
 ### [Using parameters in a class (Python)](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Using-Parameters-In-A-Class-Python.html)
 
+The command ros2 pkg create --build-type ament_cmake --license Apache-2.0 more_interfaces
+mkdir more_interfaces/msg does not work. Causing the tutorial not to run.
 TODO: Include a screenshot of a terminal showing output from running the node using created launch file (end of step 3.2) and 2-3 sentence reflection
 
 ### [Using ros2doctor to identify issues](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Getting-Started-With-Ros2doctor.html)
