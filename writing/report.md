@@ -24,12 +24,17 @@ The command colcon build --merge-install did not work. This caused the rest of t
 : Include a screenshot of a terminal showing your package running (output from step 4) and 2-3 sentence reflection
 
 ### [Writing a simple publisher and subscriber (Python)](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
+![Screenshot 4](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/a7c233af-64c4-474a-8cc3-441492e8fa6c)
 
-TODO: Include a screenshot of a terminal showing outputs from step 4 and 2-3 sentence reflection
+
+The command ros2 pkg create --build-type ament_python --license Apache-2.0 py_pubsub did not work. This caused the rest of the tutorial not to work.
+: Include a screenshot of a terminal showing outputs from step 4 and 2-3 sentence reflection
 
 ### [Writing a simple service and client (Python)](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Service-And-Client.html)
+![Screenshot 5](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/619f028a-e3c2-4f04-b228-17e5d262317f)
 
-TODO: Include a screenshot of a terminal showing outputs from step 4 and 2-3 sentence reflection
+The command ros2 pkg create --build-type ament_python --license Apache-2.0 py_srvcli --dependencies rclpy example_interfaces did not work. This caused the tutorial not to work.
+: Include a screenshot of a terminal showing outputs from step 4 and 2-3 sentence reflection
 
 ### [Creating custom msg and srv files](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
 
