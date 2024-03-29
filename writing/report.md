@@ -51,13 +51,16 @@ mkdir more_interfaces/msg does not work. Causing the tutorial not to run.
 : Include a screenshot of a terminal showing output from running `topic echo` and 2-3 sentence reflection
 
 ### [Using parameters in a class (Python)](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Using-Parameters-In-A-Class-Python.html)
+![Screenshot 8](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/7139f6a3-4de3-46ea-980b-d66259b14345)
 
 The command ros2 pkg create --build-type ament_cmake --license Apache-2.0 more_interfaces
 mkdir more_interfaces/msg does not work. Causing the tutorial not to run.
-TODO: Include a screenshot of a terminal showing output from running the node using created launch file (end of step 3.2) and 2-3 sentence reflection
+: Include a screenshot of a terminal showing output from running the node using created launch file (end of step 3.2) and 2-3 sentence reflection
 
 ### [Using ros2doctor to identify issues](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Getting-Started-With-Ros2doctor.html)
+![Screemshot 9](https://github.com/gyamfi01/project04-gyamfi01/assets/112565160/89993806-497d-47bc-98cc-432930e9fe55)
 
+The command ros2 doctor does not work. Causing the tutorial not to run.
 TODO: Include a screenshot of a terminal showing output from running the full report and 2-3 sentence reflection
 
 ### [Managing Dependencies with rosdep](https://docs.ros.org/en/humble/Tutorials/Intermediate/Rosdep.html)
